@@ -1,6 +1,6 @@
-package com.coderade.android.data.sample;
+package com.coderade.android.coffemenusample.sample;
 
-import com.coderade.android.data.model.DataItem;
+import com.coderade.android.coffemenusample.model.DataItem;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package com.coderade.android.data.database;
+package com.coderade.android.coffemenusample.database;
 
 public class ItemsTable {
     public static final String TABLE_ITEMS = "items";

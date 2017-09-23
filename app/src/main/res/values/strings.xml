@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Coderade Coffee</string>
+    <string name="app_name">Coffee Menu</string>
     <string name="ready_to_code">Ready to code!</string>
     <string name="title_activity_signin">Sign in</string>
 

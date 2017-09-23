@@ -1,4 +1,4 @@
-package com.coderade.android.data;
+package com.coderade.android.coffemenusample;
 
 import android.os.Bundle;
 import android.preference.PreferenceFragment;

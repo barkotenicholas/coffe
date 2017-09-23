@@ -1,4 +1,4 @@
-package com.coderade.android.data.database;
+package com.coderade.android.coffemenusample.database;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -8,7 +8,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteException;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import com.coderade.android.data.model.DataItem;
+import com.coderade.android.coffemenusample.model.DataItem;
 
 import java.util.ArrayList;
 import java.util.List;

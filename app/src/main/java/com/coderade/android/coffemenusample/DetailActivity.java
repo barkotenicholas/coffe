@@ -1,4 +1,4 @@
-package com.coderade.android.data;
+package com.coderade.android.coffemenusample;
 
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.coderade.android.data.model.DataItem;
+import com.coderade.android.coffemenusample.model.DataItem;
 
 import java.io.IOException;
 import java.io.InputStream;
