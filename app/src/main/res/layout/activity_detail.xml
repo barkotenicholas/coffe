@@ -44,7 +44,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="16dp"
         android:scaleType="fitCenter"
-        app:srcCompat="@drawable/apple_pie" />
+        app:srcCompat="@drawable/hamburger" />
 
     <TextView
         android:id="@+id/tvDescription"

@@ -84,9 +84,9 @@ public class SampleDataProvider {
                 "A warm chocolate chip brownie served with chocolate or vanilla ice cream and rich chocolate sauce.",
                 3, 6, "brownie.jpg"));
 
-        addItem(new DataItem(null, "Apple Pie", "Desserts",
-                "Made with local granny smith apples to bring you the freshest classic apple pie available.",
-                4, 5, "apple_pie.jpg"));
+        addItem(new DataItem(null, "Hamburger", "Entrees",
+                "The best hamburger in the world.",
+                4, 5, "hamburger.jpg"));
 
         addItem(new DataItem(null, "Mixed Berry Tart", "Desserts",
                 "Raspberries, blueberries, and strawberries on top of a creamy filling served in a crispy tart.",

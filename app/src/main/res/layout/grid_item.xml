@@ -12,8 +12,8 @@
         android:layout_width="50dp"
         android:layout_height="50dp"
         android:layout_centerHorizontal="true"
-        android:contentDescription="Apple Pie"
-        app:srcCompat="@drawable/apple_pie"
+        android:contentDescription="Hamburger"
+        app:srcCompat="@drawable/hamburger"
         tools:ignore="HardcodedText" />
 
     <TextView
