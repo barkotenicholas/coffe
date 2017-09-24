@@ -1,4 +1,4 @@
-package com.coderade.android.coffemenusample;
+package com.coderade.android.coffeemenusample;
 
 import android.content.SharedPreferences;
 import android.os.Bundle;

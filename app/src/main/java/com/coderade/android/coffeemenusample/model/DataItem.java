@@ -1,10 +1,10 @@
-package com.coderade.android.coffemenusample.model;
+package com.coderade.android.coffeemenusample.model;
 
 import android.content.ContentValues;
 import android.os.Parcel;
 import android.os.Parcelable;
 
-import com.coderade.android.coffemenusample.database.ItemsTable;
+import com.coderade.android.coffeemenusample.database.ItemsTable;
 
 import java.util.UUID;
 

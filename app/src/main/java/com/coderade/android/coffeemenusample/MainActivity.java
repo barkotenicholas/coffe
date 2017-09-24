@@ -1,4 +1,4 @@
-package com.coderade.android.coffemenusample;
+package com.coderade.android.coffeemenusample;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -16,9 +16,9 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
 
-import com.coderade.android.coffemenusample.database.DataSource;
-import com.coderade.android.coffemenusample.model.DataItem;
-import com.coderade.android.coffemenusample.sample.SampleDataProvider;
+import com.coderade.android.coffeemenusample.database.DataSource;
+import com.coderade.android.coffeemenusample.model.DataItem;
+import com.coderade.android.coffeemenusample.sample.SampleDataProvider;
 
 import java.util.List;
 
