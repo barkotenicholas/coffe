@@ -85,8 +85,8 @@ public class SampleDataProvider {
                 3, 6, "brownie.webp"));
 
         addItem(new DataItem(null, "Hamburger", "Entrees",
-                "The best hamburger in the world.",
-                4, 5, "hamburger.webp"));
+                "The best burger in the world",
+                4, 5, "hamburger.jpg"));
 
         addItem(new DataItem(null, "Mixed Berry Tart", "Desserts",
                 "Raspberries, blueberries, and strawberries on top of a creamy filling served in a crispy tart.",
