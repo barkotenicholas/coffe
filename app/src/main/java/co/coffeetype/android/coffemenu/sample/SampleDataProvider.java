@@ -1,6 +1,6 @@
-package coffee.menu.android.coffemenu.sample;
+package co.coffeetype.android.coffemenu.sample;
 
-import coffee.menu.android.coffemenu.model.DataItem;
+import co.coffeetype.android.coffemenu.model.DataItem;
 
 import java.util.ArrayList;
 import java.util.HashMap;

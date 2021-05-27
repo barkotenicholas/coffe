@@ -1,4 +1,4 @@
-package coffee.menu.android.coffemenu;
+package co.coffeetype.android.coffemenu;
 
 import org.junit.Test;
 

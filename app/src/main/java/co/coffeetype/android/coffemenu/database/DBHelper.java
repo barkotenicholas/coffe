@@ -1,4 +1,4 @@
-package coffee.menu.android.coffemenu.database;
+package co.coffeetype.android.coffemenu.database;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

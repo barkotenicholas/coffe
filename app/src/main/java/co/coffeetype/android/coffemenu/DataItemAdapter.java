@@ -1,4 +1,4 @@
-package coffee.menu.android.coffemenu;
+package co.coffeetype.android.coffemenu;
 
 import android.content.Context;
 import android.content.Intent;
@@ -16,7 +16,7 @@ import android.widget.Toast;
 
 import com.coderade.android.coffeemenusample.R;
 
-import coffee.menu.android.coffemenu.model.DataItem;
+import co.coffeetype.android.coffemenu.model.DataItem;
 
 import java.io.IOException;
 import java.io.InputStream;

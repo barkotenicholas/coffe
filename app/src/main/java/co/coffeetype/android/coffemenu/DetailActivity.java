@@ -1,4 +1,4 @@
-package coffee.menu.android.coffemenu;
+package co.coffeetype.android.coffemenu;
 
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
@@ -13,7 +13,7 @@ import com.anjlab.android.iab.v3.BillingProcessor;
 import com.anjlab.android.iab.v3.TransactionDetails;
 import com.coderade.android.coffeemenusample.R;
 
-import coffee.menu.android.coffemenu.model.DataItem;
+import co.coffeetype.android.coffemenu.model.DataItem;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -46,7 +46,7 @@ public class DetailActivity extends AppCompatActivity {
         tvDescription = (TextView) findViewById(R.id.tvDescription);
         itemImage = (ImageView) findViewById(R.id.itemImage);
         button = findViewById(R.id.but);
-        billingProcessor = new BillingProcessor(this,"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAimYOGnBuxZXnU5GCiXsaWdSFW3ToKhiEOB25l1GvbGAVKdOksfAfkWFbi3aFz39Xpl61Ef7K/0kmUcb2yYBA4olyW8rFhlpRtIi1s4oIm1ZIaWUZ730jnejctr8XWVEFFCtnLbh9gS1wuzB4txu5xM1mjs3rQAZ1jO7NL96s1wwoFm30a9iNPxsUcEHTF/Dho+ufvXKnAGu8/SqVm3erQFzL0sTST/AY4Yw4o2ViDxqqe2l69GlJgYu9T7ccf/ZahQM25bS4v71iD5LrRMwQjDc4528UbWn6iqJCsKeS8cCICc3Oj5CLTJ/Pb12DbvfKkbdf0/LwQpn8HDguH9zhCQIDAQAB" , null, new BillingProcessor.IBillingHandler() {
+        billingProcessor = new BillingProcessor(this,"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAooyj9pslXVflb7mDkbABCRX5rcU9ur9fCablsmIR6E7i/M5E3QcrUtZF8ROtgTi1A26Srnd9NxGL5bkRTtLhIv+kvDOFONkdj2cOdqwHA7b8rSwTlzTyRxHWzgfHOmRlGaDbpg+/Qa4PjKCfLsvdO3XO+ZUuwok4z17KEjSk57ZCBwIEUaV94+x77QHvib5Q4/4kPSOnChfiNGf0a1iP3lTA26FnyEYicKtgKBzIwM+BTWUsqQnlDQVK3G24g547KhoX9bnMgypYTiD06AJKDzy69Tn53sWFyZzILYHDsjP3giVVotIu0gwyoobNbB3L+NulP5mwMZdmYjceUS7BiQIDAQAB" , null, new BillingProcessor.IBillingHandler() {
             @Override
             public void onProductPurchased(String productId, TransactionDetails details) {
 
@@ -77,7 +77,7 @@ public class DetailActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                billingProcessor.subscribe(DetailActivity.this,"acup");
+                billingProcessor.subscribe(DetailActivity.this,"coffee");
 
             }
         });

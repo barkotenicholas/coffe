@@ -1,10 +1,10 @@
-package coffee.menu.android.coffemenu.model;
+package co.coffeetype.android.coffemenu.model;
 
 import android.content.ContentValues;
 import android.os.Parcel;
 import android.os.Parcelable;
 
-import coffee.menu.android.coffemenu.database.ItemsTable;
+import co.coffeetype.android.coffemenu.database.ItemsTable;
 
 import java.util.UUID;
 

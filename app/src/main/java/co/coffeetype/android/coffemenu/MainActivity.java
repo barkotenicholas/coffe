@@ -1,4 +1,4 @@
-package coffee.menu.android.coffemenu;
+package co.coffeetype.android.coffemenu;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -18,9 +18,9 @@ import android.widget.Toast;
 
 import com.coderade.android.coffeemenusample.R;
 
-import coffee.menu.android.coffemenu.database.DataSource;
-import coffee.menu.android.coffemenu.model.DataItem;
-import coffee.menu.android.coffemenu.sample.SampleDataProvider;
+import co.coffeetype.android.coffemenu.database.DataSource;
+import co.coffeetype.android.coffemenu.model.DataItem;
+import co.coffeetype.android.coffemenu.sample.SampleDataProvider;
 
 import java.util.List;
 

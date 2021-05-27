@@ -1,4 +1,4 @@
-package coffee.menu.android.coffemenu.database;
+package co.coffeetype.android.coffemenu.database;
 
 public class ItemsTable {
     public static final String TABLE_ITEMS = "items";

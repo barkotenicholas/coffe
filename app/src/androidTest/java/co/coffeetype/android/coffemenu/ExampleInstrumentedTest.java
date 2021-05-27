@@ -1,4 +1,4 @@
-package coffee.menu.android.coffemenu;
+package co.coffeetype.android.coffemenu;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package coffee.menu.android.coffemenu.database;
+package co.coffeetype.android.coffemenu.database;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -8,7 +8,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteException;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import coffee.menu.android.coffemenu.model.DataItem;
+import co.coffeetype.android.coffemenu.model.DataItem;
 
 import java.util.ArrayList;
 import java.util.List;
